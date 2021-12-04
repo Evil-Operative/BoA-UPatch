@@ -1,7 +1,7 @@
 Blades of Avernum Unofficial Patch v1.0.0 - 5 December 2021
 =
 
-![Image](https://i.imgur.com/ZynfDh3.gif)
+![Image](https://i.imgur.com/ZynfDh3.gif)   [Download Now](https://github.com/Evil-Operative/BoA-UPatch/archive/refs/heads/main.zip)
 
 
 
