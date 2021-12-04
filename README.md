@@ -5,6 +5,8 @@ Please contact me (Sokhbep) on the Spiderweb Forums or @Ecl1p5e#8061 (also me) o
 
 I am also usually found on the Official Spiderweb Software Discord Server. - https://discord.com/invite/fAHCRYQ
 
+Forum Link: shorturl.at/wKSU4
+
 
 
 Credits/Contributors
