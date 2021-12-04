@@ -1,20 +1,23 @@
 Blades of Avernum Unofficial Patch v1.0.0 - 5 December 2021
 =
 
-Please contact me (Sokhbep) on the Spiderweb Forums or @Ecl1p5e#8061 (also me) on Discord if any errors or shortcomings are discovered! 
+![Image](https://i.imgur.com/ZynfDh3.gif)
 
-I am also usually found on the Official Spiderweb Software Discord Server. - https://discord.com/invite/fAHCRYQ
 
-Forum Link: https://shorturl.at/wKSU4
 
+
+
+Please contact me ([Sokhbep](https://spiderwebforums.ipbhost.com/profile/18565-sokhbep/)) on the Spiderweb Forums or @Ecl1p5e#8061 (also me) on Discord if any errors or shortcomings are discovered! 
+
+I am also usually found on the [Official Spiderweb Software Discord Server](https://discord.com/invite/fAHCRYQ).
 
 
 Credits/Contributors
 --
 
-Ishad Nha - Compiling bugs
+[Ishad Nha](https://spiderwebforums.ipbhost.com/profile/4773-ishad-nha/) - Compiling bugs [here](https://spiderwebforums.ipbhost.com/topic/4480-list-of-bugs/)
 
-Kelandon  - Custom Objects Script Base (COSB) and Compiling bugs
+[Kelandon](https://spiderwebforums.ipbhost.com/profile/2682-kelandon/)  - Custom Objects Script Base ([COSB](https://kppp.webs.com/basedata.txt)) and Compiling bugs [here](https://spiderwebforums.ipbhost.com/topic/4040-boa-bugs-v60/)
 
 Notes
 --
