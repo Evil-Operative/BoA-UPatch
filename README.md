@@ -30,7 +30,7 @@ The .zip file comes with two components - 'BoA UPatch 1.0.0.exe' and a "Data" fo
 
 'BoA UPatch 1.0.0.exe' is a companion executable file which is supposed to be opened instead of the normal 'Blades of Avernum.exe' in order to change a few internal things which cannot be achieved by modifying the game scripts or graphics.
 
-The "Data" folder mostly contains everything ready to replace the stuff in your Blades of Avernum folder, which includes the edited graphics files. But there are two things which need your manual attention. For that, please follow Step 2.
+The "Data" folder mostly contains everything ready to replace the stuff in your Blades of Avernum folder, which includes the edited graphics files. But there are two things which need your manual attention. For that, please follow [Step 2](https://github.com/Evil-Operative/BoA-UPatch#step-2).
 
 - To patch the executable file, simply drop it into your "Blades of Avernum" folder. It does not need to replace/overwrite the default executable file to work.
 - To patch the "Data" folder, simply copy and paste it into your Blades of Avernum folder and let it replace/overwrite all the files. Once it is done, open the folder and follow the steps below.
