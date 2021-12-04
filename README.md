@@ -1,4 +1,4 @@
-Blades of Avernum Unofficial Patch
+Blades of Avernum Unofficial Patch v1.0.0
 =
 
 ![Image](https://i.imgur.com/ZynfDh3.gif)   
