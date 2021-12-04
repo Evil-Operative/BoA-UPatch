@@ -1,11 +1,10 @@
-Blades of Avernum Unofficial Patch v1.0.0 - 5 December 2021
+Blades of Avernum Unofficial Patch
 =
 
-![Image](https://i.imgur.com/ZynfDh3.gif)   [Download Now](https://github.com/Evil-Operative/BoA-UPatch/archive/refs/heads/main.zip)
+![Image](https://i.imgur.com/ZynfDh3.gif)   
 
-
-
-
+[:cyclone: Download :cyclone:](https://github.com/Evil-Operative/BoA-UPatch/archive/refs/heads/main.zip)
+==
 
 Please contact me ([Sokhbep](https://spiderwebforums.ipbhost.com/profile/18565-sokhbep/)) on the Spiderweb Forums or @Ecl1p5e#8061 (also me) on Discord if any errors or shortcomings are discovered! 
 
