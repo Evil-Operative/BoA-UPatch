@@ -48,6 +48,6 @@ Step 3 (Optional)
 -- 
 Similarly there are modified graphics for G812, G813 and G816 with the '_edited' suffix which add a few flavourful changes on top of the patches listed in the changelog. These changes alter the look of some spells and abilities such as giving 'Arcane Blow' spell icon a purple fill instead of the old cyan one based on how the spell looks when used on enemies, and restoring the old 'Summon Beast' ability icon from Avernum 1-3.
 
-## Virus Scans for the Executable file:
+###### Virus Scans for the Executable file:
 https://virusscan.jotti.org/en-US/filescanjob/gt8m1r5mll
 
