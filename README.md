@@ -24,7 +24,7 @@ BEFORE DOING ANYTHING, PLEASE BACKUP YOUR "Data" FOLDER ELSEWHERE ON YOUR COMPUT
 
 It is also very much advisable to drop all your party's gear in order to start acquiring the updated versions of some items. Or better yet, create a completely new party from scratch and start the scenario you're playing over.
 
-You are completely free to edit the scripts to your liking. I understand that not everybody is going to unanimously agree on all of my changes, and therefore the files are all there for you to selectively modify or exclude from the patching process. After all, who am I to judge the people who'd rather have their Ruby Skeletons appear outdoors with their older artwork? Just don't replace 'G1581.bmp' and you're all set.
+###### You are completely free to edit the scripts to your liking. I understand that not everybody is going to unanimously agree on all of my changes, and therefore the files are all there for you to selectively modify or exclude from the patching process. After all, who am I to judge the people who'd rather have their Ruby Skeletons appear outdoors with their older artwork? Just don't replace 'G1581.bmp' and you're all set.
 
 Step 1
 --
