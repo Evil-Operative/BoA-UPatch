@@ -69,7 +69,7 @@ Item 149 'Bowl' now uses the correct floor graphic
 Item 154 'Bolt of Cloth' now uses the dark green alternate variant whose floor icon has been restored and thus now looks different from Item 156
 Item 345 'Icy Longsword' now correctly inflicts extra cold damage instead of extra acid damage
 Item 369 'Wyrmsbane' buffed - now imports from 'Blessed Longsword' instead of 'Bronze Longsword' and has its value increased from 40 coins to 2400 coins 
-(Like for real, come on.. this epic sword that does more damage to snakes, lizards, drakes and DRAGONS used to inherit from a weak weapon and was almost worthless. Also I'm 99.9% sure the wrong import was used in the first place, since 'Ghoulbane' inherits from 'Blessed Spear' and does the same amount of damage bonus but to undead)ne'
+(Like for real, come on.. this epic sword that does more damage to snakes, lizards, drakes and DRAGONS used to inherit from a weak weapon and was almost worthless. Also I'm 99.9% sure the wrong import was used in the first place, since 'Ghoulbane' inherits from 'Blessed Spear' and does the same amount of damage bonus but to undead)
 Item 432 'Ring of Speed' buffed - now has a chance of giving a maximum of 2 bonus AP instead of 1, which is already emulated by Item 277 'Nimble Band', thus making the former an upgraded version of the latter instead of being completely same
 
 Changed 'Wand', 'Crystal' and 'Rod' items to have the same naming scheme as Scrolls e.g. "Wand - Bolt of Fire", "Crystal - Dispel Barrier"
