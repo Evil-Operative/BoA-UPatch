@@ -72,11 +72,10 @@ Item 369 'Wyrmsbane' buffed - now imports from 'Blessed Longsword' instead of 'B
 (Like for real, come on.. this epic sword that does more damage to snakes, lizards, drakes and DRAGONS used to inherit from a weak weapon and was almost worthless. Also I'm 99.9% sure the wrong import was used in the first place, since 'Ghoulbane' inherits from 'Blessed Spear' and does the same amount of damage bonus but to undead)
 Item 432 'Ring of Speed' buffed - now has a chance of giving a maximum of 2 bonus AP instead of 1, which is already emulated by Item 277 'Nimble Band', thus making the former an upgraded version of the latter instead of being completely same
 
-Changed 'Wand', 'Crystal' and 'Rod' items to have the same naming scheme as Scrolls e.g. "Wand - Bolt of Fire", "Crystal - Dispel Barrier"
+Changed 'Wand' and 'Rod' items to have the same naming scheme as Scrolls e.g. "Wand - Bolt of Fire", "Rod - Arcane Summon"
 Fixed some items not graphically representing their class e.g. 'Cursed Short Sword' used a 'Longsword' graphic and 'Jade Halberd' used a 'Spear' graphic
 Swapped around 'Ring' item graphics to distribute each type of graphic among the items equally. Each ring graphic type now has at least one cursed variety
 Rearranged all 'Scroll' item graphics so that one particular graphic type represents only one of the four separate spell types: direct damage, support, utility and summon
-Rearranged all 'Wand' item graphics so that one particular graphic type represents only one of the three separate spell types: direct damage, support and utility
 Changed some item names in order to maintain uniformity with similar item types (e.g. renamed 'Blessed Steel Helmet' to 'Blessed Helmet', changed the unidentified name of 'Alien Blade' from 'Wavy Sword' to 'Waveblade')
 
 Readjusted the graphics of entirety of the artifact shield lineup based on the following statistics:
