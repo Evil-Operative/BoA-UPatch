@@ -18,6 +18,8 @@ Credits/Contributors
 
 [Kelandon](https://spiderwebforums.ipbhost.com/profile/2682-kelandon/)  - Custom Objects Script Base ([COSB](https://kppp.webs.com/basedata.txt)) and Compiling bugs [here](https://spiderwebforums.ipbhost.com/topic/4040-boa-bugs-v60/)
 
+[Vox](https://spiderwebforums.ipbhost.com/profile/10098-vox/) - Living Statue Creature Graphic Rotations
+
 Notes
 --
 BEFORE DOING ANYTHING, PLEASE BACKUP YOUR "Data" FOLDER ELSEWHERE ON YOUR COMPUTER AS A COPY. IT IS A SOUND ADVICE IF YOU DO NOT WISH TO DOWNLOAD AND INSTALL THE GAME AGAIN TO RESTORE YOUR FILES BACK TO NORMAL!!
