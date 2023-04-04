@@ -1,5 +1,5 @@
 =========================================
-Blades of Avernum Unofficial Patch v1.0.0
+Blades of Avernum Unofficial Patch v1.0.1
    Created by Sokhbep and friends :D
 =========================================
 
@@ -37,6 +37,56 @@ Once you have figured out which variant of the patch you wish to apply, delete t
 
 
 [OPTIONAL STEP] Similarly there are modified graphics for G812, G813 and G816 with the '_edited' suffix which add a few flavourful changes on top of the patches listed in the changelog. These changes alter the look of some spells and abilities such as giving 'Arcane Blow' spell icon a purple fill instead of the old cyan one based on how the spell looks when used on enemies, and restoring the old 'Summon Beast' ability icon from Avernum 1-3.
+
+====================================
+CHANGELOG v1.0.1 - 02 September 2022
+====================================
+
+///[ BoA UPatch.exe ]\\\ (You must run the game through this file in order to experiences these changes)
+
+-  Spell description for 'Smite' under the Priest Spells tab in the Info screen changed to match its function. Instead of telling that it deals cold damage, it now correctly tells that it deals magic damage.
+
+
+///[ corescendata_coloradjust.txt ]\\\
+
+Creatures 25 'Nephil Shaman' and 30 'Nephar Shaman' have their colours adjusted to differentiate more from the 'Nephil' creature
+Creature 57 'Lava Bat' colour adjusted to be more apparent than before
+Creature 123 'Rogue Warrior' has a mis-colouring issue fixed
+Creatures 8 'Archer', 20 'Elite Soldier', 131 'Bladesman',  132 'Empire Archer' i.e., common human NPCs have had their colours adjusted further to not appear as stick-outs in a town some among them looking too dark
+
+
+///[ corescendata2_coloradjust.txt ]\\\
+
+Item 177 'First Aid Kit' has its colour changed to maintain uniformity with other similar items of its utility type (e.g. Lockpicks)
+Item 287 'Wand - Acid Spray' has its name corrected to 'Wand - Spray Acid' to match the spell name
+Items 326 'Piercing Crystal', 327 'Unshackling Crystal' and 328 'Shattering Crystal' have mis-colouring issues fixed
+
+All "Iron" items have their colour altered to look less gaudy. On the other hand, all "Poor" and "Crude" items now have the "Iron" item colours
+
+
+///[ corescendata2_nocoloradjust.txt ]\\\
+
+Item 287 'Wand - Acid Spray' has its name corrected to 'Wand - Spray Acid' to match the spell name
+
+
+///[ Character Graphics ]\\\
+
+G1512 (Acolyte) - Fixed erroneous white/transparent pixels on various frames
+G1517 (Mage) - Fixed erroneous white/transparent pixels on various frames
+G1553 (Living Statue) - Added missing rotations, proper attack frames and proper outdoors frames (courtesy of Vox)
+
+
+///[ Art Graphics ]\\\
+
+G1660 (Brown Vest Bandana Man) - Fixed a slight offset mistake from v1.0.0
+G1803 and G1811 - Their codes have been swapped, so that their Paperdoll graphics match their respective World graphics (They were incorrectly labeled in base game so they had their graphics swapped with each other... It's hard to notice, but one has a bow on her back and the other does not)
+G1821 (Blue Armor Light Nephil) - Changed fur colour of the Paperdoll graphic to match the World graphic
+
+
+///[ Game Graphics ]\\
+
+G904 - Changed to compliment the G1803 and G1811 code swap, and G1821 fur colour change
+
 
 ===================================
 CHANGELOG v1.0.0 - 05 December 2021
