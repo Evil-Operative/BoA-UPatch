@@ -1,0 +1,21 @@
+Numbers in [Square Brackets] indicate at what "Skill Pts. Cost" that skill needs to be in, in order to unlock the special skill.
+
+Tier 1: (Required to unlock Tier 3 Skills)
+	Parry: 	Dexterity [8], Defense [5]
+	Blademaster: Strength [8], Melee Weapons [6], Pole Weapons [6]
+	Anatomy: Intelligence [7], Melee/Pole Weapons [7]
+	Magery: Intelligence [9], Mage Spells [8] -OR- Priest Spells [7]
+
+
+Tier 2: (Standalone, don't contribute toward Tier 3 Skills)
+	Quick Strike: Dexterity [8], Melee/Pole Weapons [6]
+	Gymnastics: Strength [8], Dexterity [9]
+	Pathfinder: Intelligence [8], Nature Lore [4]
+	Resistance: Dexterity [9], Endurance [8], Hardiness [5]
+	Sharpshooter: Dexterity [7], Bows/Thrown Missiles [6]
+
+
+Tier 3: (Require Tier 1 Skills to be leveled up first)
+	Lethal Blow: Blademaster [9], Anatomy [8]
+	Riposte: Parry [7], Blademaster [8]
+	Magical Efficiency: Endurance [8], Magery [8]
