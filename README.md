@@ -30,9 +30,9 @@ It is very much advisable to drop all your party's gear and use the Character Ed
 
 Step 1
 --
-The .zip file comes with two components - 'BoA UPatch 1.0.0.exe' and a "Data" folder consisting of the rest of the modified files.
+The .zip file comes with two components - 'BoA UPatch [Version].exe' and a "Data" folder consisting of the rest of the modified files.
 
-'BoA UPatch 1.0.0.exe' is a companion executable file which is supposed to be opened instead of the normal 'Blades of Avernum.exe' in order to change a few internal things which cannot be achieved by modifying the game scripts or graphics.
+'BoA UPatch [Version].exe' is a companion executable file which is supposed to be opened instead of the normal 'Blades of Avernum.exe' in order to change a few internal things which cannot be achieved by modifying the game scripts or graphics.
 
 The "Data" folder mostly contains everything ready to replace the stuff in your Blades of Avernum folder, which includes the edited graphics files. But there are two things which need your manual attention. For that, please follow [Step 2](https://github.com/Evil-Operative/BoA-UPatch#step-2).
 
